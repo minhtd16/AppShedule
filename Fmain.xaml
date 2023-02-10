@@ -1,0 +1,358 @@
+﻿<Window
+    x:Class="AppShedule.Fmain"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:AppShedule"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Width="1350"
+    Height="700"
+    Background="WhiteSmoke"
+    WindowStartupLocation="CenterScreen"
+    WindowState="Normal"
+    mc:Ignorable="d">
+    <Grid>
+        <StackPanel
+            Height="32"
+            Margin="4,4,4,4"
+            VerticalAlignment="Top"
+            Orientation="Horizontal">
+
+            <ComboBox
+                Name="comboboxToaNha"
+                Width="100"
+                Height="26"
+                Margin="5,0,0,0"
+                VerticalContentAlignment="Center"
+                DisplayMemberPath="{Binding TenToaNha}"
+                ItemsSource="{Binding}"
+                SelectionChanged="comboboxToaNha_SelectionChanged" />
+
+            <ComboBox
+                Name="comboboxPhongHoc"
+                Width="100"
+                Height="26"
+                Margin="5,0,0,0"
+                VerticalContentAlignment="Center"
+                DisplayMemberPath="{Binding TenPhong}"
+                ItemsSource="{Binding}"
+                SelectionChanged="comboboxPhongHoc_SelectionChanged" />
+
+            <ComboBox
+                Name="comboboxBuoiHoc"
+                Width="85"
+                Height="26"
+                Margin="5,0,0,0"
+                VerticalContentAlignment="Center"
+                DisplayMemberPath="{Binding Buoi}"
+                ItemsSource="{Binding}"
+                SelectionChanged="comboboxBuoiHoc_SelectionChanged" />
+            <ComboBox
+                Name="comboboxMonHoc"
+                Width="140"
+                Height="26"
+                Margin="5,0,0,0"
+                VerticalContentAlignment="Center"
+                DisplayMemberPath="{Binding MonHoc}"
+                ItemsSource="{Binding}"
+                SelectionChanged="comboboxMonHoc_SelectionChanged" />
+            <ComboBox
+                Name="comboboxLoaiDung"
+                Width="100"
+                Height="26"
+                Margin="5,0,0,0"
+                VerticalContentAlignment="Center"
+                DisplayMemberPath="{Binding LoaiDung}"
+                ItemsSource="{Binding}"
+                SelectionChanged="comboboxLoaiDung_SelectionChanged" />
+            <ComboBox
+                Name="comboboxCBGiangDay"
+                Width="120"
+                Height="26"
+                Margin="5,0,0,0"
+                VerticalContentAlignment="Center"
+                DisplayMemberPath="{Binding GiangVien}"
+                ItemsSource="{Binding}"
+                SelectionChanged="comboboxCBGiangDay_SelectionChanged" />
+            <Label
+                Name="NgayHocHienTai"
+                Height="26"
+                Margin="10,0,0,0"
+                VerticalContentAlignment="Center"
+                Content="Từ:" />
+            <DatePicker
+                Name="txtDateStart"
+                Width="100"
+                Height="26"
+                VerticalContentAlignment="Center" />
+            <Label
+                Name="labelDenNgay"
+                Margin="5,0,0,0"
+                VerticalAlignment="Center"
+                Content="Đến:" />
+            <DatePicker
+                Name="txtDateEnd"
+                Width="100"
+                Height="26"
+                VerticalContentAlignment="Center" />
+            <Button
+                Name="btFilter"
+                Width="38"
+                Height="26"
+                Margin="0,2,0,2"
+                VerticalContentAlignment="Center"
+                Click="btFilter_Click"
+                Content="Lọc" />
+            <Button
+                Name="btReload"
+                Width="45"
+                Height="26"
+                Margin="0,2,0,2"
+                VerticalContentAlignment="Center"
+                Click="btReload_Click"
+                Content="Tải lại" />
+            <Button
+                Name="btImport"
+                Width="50"
+                Height="26"
+                Margin="2"
+                Click="btImport_Click"
+                Content="Import" />
+            <Button
+                Name="btAdd"
+                Width="40"
+                Height="26"
+                Margin="2"
+                Content="Add" />
+
+            <Button
+                Name="btEXport"
+                Width="50"
+                Height="26"
+                Margin="2"
+                Click="btEXport_Click"
+                Content="Export" />
+
+
+            <CheckBox
+                Name="checkboxToday"
+                VerticalContentAlignment="Center"
+                Click="checkboxToday_Click"
+                Content="Today" />
+        </StackPanel>
+
+        <ListView
+            Name="ListShowInfor"
+            Margin="4,40,2,4"
+            ItemsSource="{Binding}"
+            ScrollViewer.VerticalScrollBarVisibility="Visible"
+            SelectionMode="Multiple">
+            <ListView.Resources>
+                <Style TargetType="{x:Type GridViewColumnHeader}">
+                    <Setter Property="HorizontalContentAlignment" Value="Left" />
+                    <Setter Property="Margin" Value="2,0,0,0" />
+                </Style>
+            </ListView.Resources>
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Width="28">
+                        <CheckBox
+                            Name="chkSelectAll"
+                            Margin="2,0,0,0"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center"
+                            HorizontalContentAlignment="Center"
+                            Click="chkSelectAll_Click" />
+
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+
+                                <CheckBox
+                                    Name="cbSelectRow"
+                                    HorizontalAlignment="Left"
+                                    HorizontalContentAlignment="Left"
+                                    Checked="chkWspSelect_Checked"
+                                    IsChecked="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type ListViewItem}}, Path=IsSelected}"
+                                    IsThreeState="False"
+                                    Unchecked="chkWspSelect_Unchecked" />
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <!--<GridViewColumn Width="30">
+                        <GridViewColumn.HeaderTemplate>
+                            <DataTemplate>
+                                <CheckBox
+                                    Name="checkbox_All"
+                                    Click="checkbox_All_Click"
+                                    IsChecked="True"
+                                    IsEnabled="True" />
+                            </DataTemplate>
+                        </GridViewColumn.HeaderTemplate>
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <StackPanel>
+                                    <CheckBox
+                                        Name="Checkbox_item_lv"
+                                        Click="Checkbox_item_lv_Click"
+                                        IsChecked="True"
+                                        IsEnabled="True" />
+                                </StackPanel>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>-->
+                    <GridViewColumn
+                        Width="90"
+                        DisplayMemberBinding="{Binding TenToaNha}"
+                        Header="Tòa nhà" />
+                    <GridViewColumn
+                        Width="100"
+                        DisplayMemberBinding="{Binding TenPhong}"
+                        Header="Phòng học" />
+                    <GridViewColumn
+                        Width="90"
+                        DisplayMemberBinding="{Binding Thu}"
+                        Header="Tên thứ" />
+                    <GridViewColumn
+                        Width="75"
+                        DisplayMemberBinding="{Binding NgayThang_Show}"
+                        Header="Ngày học" />
+                    <GridViewColumn
+                        Width="60"
+                        DisplayMemberBinding="{Binding Buoi}"
+                        Header="Buổi học" />
+                    <GridViewColumn
+                        Width="100"
+                        DisplayMemberBinding="{Binding LoaiDung}"
+                        Header="Loại dùng" />
+                    <GridViewColumn
+                        Width="280"
+                        DisplayMemberBinding="{Binding LopHocKhoa}"
+                        Header="Tên lớp" />
+                    <GridViewColumn
+                        Width="190"
+                        DisplayMemberBinding="{Binding MonHoc}"
+                        Header="Môn học" />
+                    <GridViewColumn
+                        Width="120"
+                        DisplayMemberBinding="{Binding GiangVien}"
+                        Header="Giảng viên" />
+                    <GridViewColumn
+                        Width="60"
+                        DisplayMemberBinding="{Binding Tiet}"
+                        Header="Tiết học" />
+                    <GridViewColumn
+                        Width="80"
+                        DisplayMemberBinding="{Binding LoaiLich}"
+                        Header="Loại lịch" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+
+    <!--<StackPanel Margin="2">
+
+        <StackPanel
+            Margin="2"
+            VerticalAlignment="Center"
+            Orientation="Horizontal">
+            <Label Margin="5,0,5,0" Content="Chọn tòa nhà:" />
+            <ComboBox
+                Name="comboboxToaNha"
+                Width="120"
+                DisplayMemberPath="{Binding LoaiDung}"
+                ItemsSource="{Binding}" />
+            <Label Margin="5,0,5,0" Content="Chọn phòng học:" />
+            <ComboBox
+                Name="comboboxPhongHoc"
+                Width="120"
+                DisplayMemberPath="{Binding LoaiDung}"
+                ItemsSource="{Binding}" />
+            <CheckBox
+                Name="NgayHocHienTai"
+                Margin="5,0,5,0"
+                VerticalAlignment="Center"
+                Content="Từ ngày"
+                IsChecked="True" />
+            <DatePicker Name="txtDateStart" Width="110" />
+            <Label Content="Đến ngày" />
+            <DatePicker Name="txtDateEnd" Width="110" />
+            <Label Margin="5,0,5,0" Content="Buổi học:" />
+
+            <ComboBox
+                Name="comboboxBuoiHoc"
+                Width="100"
+                ItemsSource="{Binding}">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel>
+                            <CheckBox Content="{Binding RelativeSource={RelativeSource TemplatedParent}, Path=Content}" IsChecked="True" />
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+            <Label
+                Margin="5,0,5,0"
+                Content="Loại dùng"
+                Visibility="Hidden" />
+            <ComboBox
+                Name="comboboxLoaiDung"
+                Width="100"
+                DisplayMemberPath="{Binding LoaiDung}"
+                ItemsSource="{Binding}"
+                Visibility="Hidden" />
+        </StackPanel>
+        <Grid Margin="2">
+            <ListView Name="ListTestRealExcel" SelectionMode="Single">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn
+                            Width="90"
+                            DisplayMemberBinding="{Binding TenToaNha}"
+                            Header="Tòa nhà" />
+                        <GridViewColumn
+                            Width="100"
+                            DisplayMemberBinding="{Binding TenPhong}"
+                            Header="Phòng học" />
+                        <GridViewColumn
+                            Width="90"
+                            DisplayMemberBinding="{Binding Thu}"
+                            Header="Tên thứ" />
+                        <GridViewColumn
+                            Width="75"
+                            DisplayMemberBinding="{Binding NgayThang}"
+                            Header="Ngày học" />
+                        <GridViewColumn
+                            Width="60"
+                            DisplayMemberBinding="{Binding Buoi}"
+                            Header="Buổi học" />
+                        <GridViewColumn
+                            Width="100"
+                            DisplayMemberBinding="{Binding LoaiDung}"
+                            Header="Loại dùng" />
+                        <GridViewColumn
+                            Width="280"
+                            DisplayMemberBinding="{Binding LopHocKhoa}"
+                            Header="Tên lớp" />
+                        <GridViewColumn
+                            Width="190"
+                            DisplayMemberBinding="{Binding MonHoc}"
+                            Header="Môn học" />
+                        <GridViewColumn
+                            Width="120"
+                            DisplayMemberBinding="{Binding GiangVien}"
+                            Header="Giảng viên" />
+                        <GridViewColumn
+                            Width="60"
+                            DisplayMemberBinding="{Binding Tiet}"
+                            Header="Tiết học" />
+                        <GridViewColumn
+                            Width="80"
+                            DisplayMemberBinding="{Binding LoaiLich}"
+                            Header="Loại lịch" />
+                    </GridView>
+                </ListView.View>
+            </ListView>
+
+        </Grid>
+    </StackPanel>-->
+</Window>

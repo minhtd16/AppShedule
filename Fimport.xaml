@@ -1,0 +1,112 @@
+﻿<Window
+    x:Class="AppShedule.Fimport"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:AppShedule"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="Fimport"
+    Width="1300"
+    Height="680"
+    ResizeMode="NoResize"
+    WindowStartupLocation="CenterScreen"
+    WindowState="Normal"
+    mc:Ignorable="d">
+    <Grid>
+        <StackPanel
+            Height="30"
+            Margin="2,2,2,2"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top"
+            Orientation="Horizontal">
+            <Button
+                Name="btLoadFile"
+                Width="100"
+                Height="26"
+                Margin="0,0,10,0"
+                Click="btLoadFile_Click"
+                Content="Chọn file excel" />
+            <TextBox
+                Name="txtPartShow"
+                Width="330"
+                Height="26"
+                Margin="0,0,10,0"
+                VerticalContentAlignment="Center" />
+            <Button
+                Name="btImportDataAll"
+                Width="130"
+                Height="26"
+                Margin="0,0,10,0"
+                Click="btImportDataAll_Click"
+                Content="Thêm tất cả dữ liệu" />
+            <Button
+                Name="btImportCustom"
+                Width="160"
+                Height="26"
+                Margin="0,0,10,0"
+                Click="btImportCustom_Click"
+                Content="Thêm dữ liệu có lịch học" />
+            <Button
+                Name="btExit"
+                Width="50"
+                Height="26"
+                Margin="0,0,10,0"
+                Click="btExit_Click"
+                Content="Thoát" />
+        </StackPanel>
+        <ListView
+            Name="ListTestRealExcel"
+            Margin="2,35,2,4"
+            SelectionMode="Single">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn
+                        Width="90"
+                        DisplayMemberBinding="{Binding TenToaNha}"
+                        Header="Tòa nhà" />
+                    <GridViewColumn
+                        Width="100"
+                        DisplayMemberBinding="{Binding TenPhong}"
+                        Header="Phòng học" />
+                    <GridViewColumn
+                        Width="90"
+                        DisplayMemberBinding="{Binding Thu}"
+                        Header="Tên thứ" />
+                    <GridViewColumn
+                        Width="75"
+                        DisplayMemberBinding="{Binding NgayThang}"
+                        Header="Ngày học" />
+                    <GridViewColumn
+                        Width="60"
+                        DisplayMemberBinding="{Binding Buoi}"
+                        Header="Buổi học" />
+                    <GridViewColumn
+                        Width="100"
+                        DisplayMemberBinding="{Binding LoaiDung}"
+                        Header="Loại dùng" />
+                    <GridViewColumn
+                        Width="280"
+                        DisplayMemberBinding="{Binding LopHocKhoa}"
+                        Header="Tên lớp" />
+                    <GridViewColumn
+                        Width="190"
+                        DisplayMemberBinding="{Binding MonHoc}"
+                        Header="Môn học" />
+                    <GridViewColumn
+                        Width="120"
+                        DisplayMemberBinding="{Binding GiangVien}"
+                        Header="Giảng viên" />
+                    <GridViewColumn
+                        Width="60"
+                        DisplayMemberBinding="{Binding Tiet}"
+                        Header="Tiết học" />
+                    <GridViewColumn
+                        Width="80"
+                        DisplayMemberBinding="{Binding LoaiLich}"
+                        Header="Loại lịch" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+    </Grid>
+</Window>
