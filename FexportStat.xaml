@@ -1,0 +1,131 @@
+﻿<Window
+    x:Class="AppShedule.FexportStat"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:AppShedule"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="FexportStat"
+    Width="840"
+    Height="400"
+    ResizeMode="NoResize"
+    WindowStartupLocation="CenterScreen"
+    mc:Ignorable="d">
+    <Grid>
+        <StackPanel
+            Height="35"
+            Margin="4,4,4,4"
+            VerticalAlignment="Top"
+            Orientation="Horizontal">
+            <ComboBox
+                Name="cbboxToaNha"
+                Width="120"
+                Height="26"
+                VerticalContentAlignment="Center"
+                DisplayMemberPath="{Binding TenToaNha}"
+                ItemsSource="{Binding}"
+                SelectionChanged="cbboxToaNha_SelectionChanged" />
+            <Label
+                Margin="2"
+                VerticalContentAlignment="Center"
+                Content="Từ ngày:" />
+            <DatePicker
+                Name="txtStartDate"
+                Width="110"
+                Height="26"
+                Margin="2"
+                VerticalContentAlignment="Center" />
+            <Label
+                Margin="2"
+                VerticalContentAlignment="Center"
+                Content="Đến ngày:" />
+            <DatePicker
+                Name="txtEndDate"
+                Width="110"
+                Height="26"
+                Margin="2"
+                VerticalContentAlignment="Center" />
+            <Button
+                Name="btStatistical_default"
+                Width="120"
+                Height="26"
+                Margin="2"
+                Click="btStatistical_default_Click"
+                Content="Thống kê mặc định" />
+            <Button
+                Name="btStatistical_custom"
+                Width="120"
+                Height="26"
+                Margin="2"
+                Click="btStatistical_custom_Click"
+                Content="Thống kê tùy chỉnh" />
+            <Button
+                Name="btExport"
+                Width="85"
+                Height="26"
+                Margin="2"
+                Click="btExport_Click"
+                Content="Xuất dữ liệu" />
+        </StackPanel>
+        <ListView
+            Name="List_Statistical_Fillter"
+            Margin="4,42,4,4"
+            ItemsSource="{Binding}"
+            ScrollViewer.VerticalScrollBarVisibility="Visible"
+            SelectionMode="Multiple">
+            <ListView.Resources>
+                <Style TargetType="{x:Type GridViewColumnHeader}">
+                    <Setter Property="HorizontalContentAlignment" Value="Left" />
+                    <Setter Property="Margin" Value="2,0,0,0" />
+                </Style>
+            </ListView.Resources>
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Width="28">
+                        <CheckBox
+                            Name="chkSelectAll"
+                            Margin="2,0,0,0"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center"
+                            HorizontalContentAlignment="Center"
+                            Click="chkSelectAll_Click" />
+
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <CheckBox
+                                    Name="cbSelectRow"
+                                    HorizontalAlignment="Left"
+                                    HorizontalContentAlignment="Left"
+                                    Checked="cbSelectRow_Checked"
+                                    IsChecked="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type ListViewItem}}, Path=IsSelected}"
+                                    IsThreeState="False"
+                                    Unchecked="cbSelectRow_Unchecked" />
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn
+                        Width="120"
+                        DisplayMemberBinding="{Binding TenPhong}"
+                        Header="Tên phòng học" />
+                    <GridViewColumn
+                        Width="150"
+                        DisplayMemberBinding="{Binding SoBuoiTrongTuan}"
+                        Header="Số buổi trong tuần" />
+                    <GridViewColumn
+                        Width="140"
+                        DisplayMemberBinding="{Binding SoBuoiCuoiTuan}"
+                        Header="Số buổi cuối tuần" />
+                    <GridViewColumn
+                        Width="140"
+                        DisplayMemberBinding="{Binding TongSoBuoi}"
+                        Header="Tổng số buổi" />
+                    <GridViewColumn
+                        Width="150"
+                        DisplayMemberBinding="{Binding GhiChu}"
+                        Header="Ghi chú" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+    </Grid>
+</Window>

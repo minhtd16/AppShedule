@@ -299,6 +299,7 @@ namespace AppShedule
         private void comboboxMonHoc_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             ListShow_Data_Fillter();
+            
         }
 
         private void btDelAll_Click(object sender, RoutedEventArgs e)
@@ -326,6 +327,12 @@ namespace AppShedule
                 List_Data_CBGiangDay();
 
             }
+        }
+
+        private void btStat_Click(object sender, RoutedEventArgs e)
+        {
+            FexportStat f = new FexportStat();
+            f.ShowDialog();
         }
 
         private void comboboxLoaiDung_SelectionChanged(object sender, SelectionChangedEventArgs e)
@@ -369,11 +376,11 @@ namespace AppShedule
             string str_ex_tengv = comboboxCBGiangDay.Items.GetItemAt(comboboxCBGiangDay.SelectedIndex).ToString();
 
             DateTime str_ex_d_s;
-            DateTime str_ex_s_e;
+            DateTime str_ex_d_e;
             try
             {
                 str_ex_d_s = Convert.ToDateTime(txtDateStart.Text.ToString());
-                str_ex_s_e = Convert.ToDateTime(txtDateEnd.Text.ToString());
+                str_ex_d_e = Convert.ToDateTime(txtDateEnd.Text.ToString());
             }
             catch
             {
@@ -385,7 +392,7 @@ namespace AppShedule
             Funcs_dbAppShedule f_ex = new Funcs_dbAppShedule();
             List_SheduleRoom_Fillter_Export = f_ex.SheduleRoom_GetAll();
 
-            List_SheduleRoom_Fillter_Export = List_SheduleRoom_Fillter_Export.Where(x => x.NgayThang >= str_ex_d_s && x.NgayThang <= str_ex_s_e).OrderBy(x => x.NgayThang).ToList();
+            List_SheduleRoom_Fillter_Export = List_SheduleRoom_Fillter_Export.Where(x => x.NgayThang >= str_ex_d_s && x.NgayThang <= str_ex_d_e).OrderBy(x => x.NgayThang).ToList();
 
             if (str_ex_tentoanha != "Chọn tòa nhà")
             {

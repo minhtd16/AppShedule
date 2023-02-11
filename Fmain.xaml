@@ -5,7 +5,7 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:local="clr-namespace:AppShedule"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    Width="1350"
+    Width="1400"
     Height="700"
     Background="WhiteSmoke"
     WindowStartupLocation="CenterScreen"
@@ -140,6 +140,13 @@
                 Click="btEXport_Click"
                 Content="Export" />
 
+            <Button
+                Name="btStat"
+                Width="40"
+                Height="26"
+                Margin="2"
+                Click="btStat_Click"
+                Content="Stat" />
 
             <CheckBox
                 Name="checkboxToday"
@@ -173,7 +180,6 @@
 
                         <GridViewColumn.CellTemplate>
                             <DataTemplate>
-
                                 <CheckBox
                                     Name="cbSelectRow"
                                     HorizontalAlignment="Left"

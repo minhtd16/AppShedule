@@ -16,916 +16,6 @@
   </SheduleRoom>
   <SheduleRoom ID="0">
     <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Sáu</Thu>
-    <NgayThang>10/02/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch thi</LoaiDung>
-    <LopHocKhoa>K23C ĐH Luật (LT từ CĐ)</LopHocKhoa>
-    <MonHoc>Cơ sở văn hoá Việt Nam</MonHoc>
-    <GiangVien>Lịch thi</GiangVien>
-    <Tiet>1 - 3</Tiet>
-    <LoaiLich>Lý thuyết</LoaiLich>
-    <NgayThang_Show>10/02/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="1">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Bảy</Thu>
-    <NgayThang>11/02/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24D ĐH Kế toán (VLVH)</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Trịnh Thị Hợp</GiangVien>
-    <Tiet>2 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>11/02/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="2">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Chủ nhật</Thu>
-    <NgayThang>12/02/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24D ĐH Kế toán (VLVH)</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Trịnh Thị Hợp</GiangVien>
-    <Tiet>2 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>12/02/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="3">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Ba</Thu>
-    <NgayThang>14/02/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
-    <Tiet>1 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>14/02/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="4">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Tư</Thu>
-    <NgayThang>15/02/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24E_ĐH Kế toán_216401E</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Lê Đức Thọ</GiangVien>
-    <Tiet>1 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>15/02/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="5">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Tư</Thu>
-    <NgayThang>15/02/2023</NgayThang>
-    <Buoi>Chiều</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
-    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
-    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
-    <Tiet>6 - 7</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>15/02/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="6">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Năm</Thu>
-    <NgayThang>16/02/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Trịnh Thị Hợp</GiangVien>
-    <Tiet>1 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>16/02/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="7">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Sáu</Thu>
-    <NgayThang>17/02/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24D_ĐH Kế toán_216401D</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Trịnh Thị Phú</GiangVien>
-    <Tiet>1 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>17/02/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="8">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Bảy</Thu>
-    <NgayThang>18/02/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24D ĐH Kế toán (VLVH)</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Trịnh Thị Hợp</GiangVien>
-    <Tiet>2 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>18/02/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="9">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Bảy</Thu>
-    <NgayThang>18/02/2023</NgayThang>
-    <Buoi>Chiều</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
-    <Tiet>6 - 10</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>18/02/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="10">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Chủ nhật</Thu>
-    <NgayThang>19/02/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24D ĐH Kế toán (VLVH)</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Trịnh Thị Hợp</GiangVien>
-    <Tiet>2 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>19/02/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="11">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Chủ nhật</Thu>
-    <NgayThang>19/02/2023</NgayThang>
-    <Buoi>Chiều</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K44A CĐGD Mầm non (NĐ71)</LopHocKhoa>
-    <MonHoc>Tin học.</MonHoc>
-    <GiangVien>Trịnh Thị Hợp</GiangVien>
-    <Tiet>6 - 10</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>19/02/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="12">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Hai</Thu>
-    <NgayThang>20/02/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Trịnh Thị Hợp</GiangVien>
-    <Tiet>1 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>20/02/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="13">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Ba</Thu>
-    <NgayThang>21/02/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
-    <Tiet>1 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>21/02/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="14">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Tư</Thu>
-    <NgayThang>22/02/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24E_ĐH Kế toán_216401E</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Lê Đức Thọ</GiangVien>
-    <Tiet>1 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>22/02/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="15">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Tư</Thu>
-    <NgayThang>22/02/2023</NgayThang>
-    <Buoi>Chiều</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
-    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
-    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
-    <Tiet>6 - 7</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>22/02/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="16">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Năm</Thu>
-    <NgayThang>23/02/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Trịnh Thị Hợp</GiangVien>
-    <Tiet>1 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>23/02/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="17">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Năm</Thu>
-    <NgayThang>23/02/2023</NgayThang>
-    <Buoi>Chiều</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K44A CĐGD Mầm non (NĐ71)</LopHocKhoa>
-    <MonHoc>Tin học.</MonHoc>
-    <GiangVien>Trịnh Thị Phú</GiangVien>
-    <Tiet>6 - 10</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>23/02/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="18">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Sáu</Thu>
-    <NgayThang>24/02/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24D_ĐH Kế toán_216401D</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Trịnh Thị Phú</GiangVien>
-    <Tiet>1 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>24/02/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="19">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Sáu</Thu>
-    <NgayThang>24/02/2023</NgayThang>
-    <Buoi>Chiều</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
-    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
-    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
-    <Tiet>6 - 7</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>24/02/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="20">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Bảy</Thu>
-    <NgayThang>25/02/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24D ĐH Kế toán (VLVH)</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Trịnh Thị Hợp</GiangVien>
-    <Tiet>2 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>25/02/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="21">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Bảy</Thu>
-    <NgayThang>25/02/2023</NgayThang>
-    <Buoi>Chiều</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K44A CĐGD Mầm non (NĐ71)</LopHocKhoa>
-    <MonHoc>Tin học.</MonHoc>
-    <GiangVien>Trịnh Thị Hợp</GiangVien>
-    <Tiet>6 - 10</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>25/02/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="22">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Chủ nhật</Thu>
-    <NgayThang>26/02/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K44A CĐGD Mầm non (NĐ71)</LopHocKhoa>
-    <MonHoc>Tin học.</MonHoc>
-    <GiangVien>Trịnh Thị Hợp</GiangVien>
-    <Tiet>1 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>26/02/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="23">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Chủ nhật</Thu>
-    <NgayThang>26/02/2023</NgayThang>
-    <Buoi>Chiều</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K44A CĐGD Mầm non (NĐ71)</LopHocKhoa>
-    <MonHoc>Tin học.</MonHoc>
-    <GiangVien>Trịnh Thị Hợp</GiangVien>
-    <Tiet>6 - 10</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>26/02/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="24">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Hai</Thu>
-    <NgayThang>27/02/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Trịnh Thị Hợp</GiangVien>
-    <Tiet>1 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>27/02/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="25">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Ba</Thu>
-    <NgayThang>28/02/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
-    <Tiet>1 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>28/02/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="26">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Tư</Thu>
-    <NgayThang>01/03/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24E_ĐH Kế toán_216401E</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Lê Đức Thọ</GiangVien>
-    <Tiet>1 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>01/03/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="27">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Tư</Thu>
-    <NgayThang>01/03/2023</NgayThang>
-    <Buoi>Chiều</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
-    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
-    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
-    <Tiet>6 - 7</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>01/03/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="28">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Năm</Thu>
-    <NgayThang>02/03/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Trịnh Thị Hợp</GiangVien>
-    <Tiet>1 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>02/03/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="29">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Năm</Thu>
-    <NgayThang>02/03/2023</NgayThang>
-    <Buoi>Chiều</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K44A CĐGD Mầm non (NĐ71)</LopHocKhoa>
-    <MonHoc>Tin học.</MonHoc>
-    <GiangVien>Lê Đức Thọ</GiangVien>
-    <Tiet>6 - 10</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>02/03/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="30">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Sáu</Thu>
-    <NgayThang>03/03/2023</NgayThang>
-    <Buoi>Chiều</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K44A CĐGD Mầm non (NĐ71)</LopHocKhoa>
-    <MonHoc>Tin học.</MonHoc>
-    <GiangVien>Lê Đức Thọ</GiangVien>
-    <Tiet>6 - 10</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>03/03/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="31">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Bảy</Thu>
-    <NgayThang>04/03/2023</NgayThang>
-    <Buoi>Chiều</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
-    <Tiet>6 - 10</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>04/03/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="32">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Hai</Thu>
-    <NgayThang>06/03/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Trịnh Thị Hợp</GiangVien>
-    <Tiet>1 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>06/03/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="33">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Ba</Thu>
-    <NgayThang>07/03/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
-    <Tiet>1 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>07/03/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="34">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Tư</Thu>
-    <NgayThang>08/03/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24E_ĐH Kế toán_216401E</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Lê Đức Thọ</GiangVien>
-    <Tiet>1 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>08/03/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="35">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Tư</Thu>
-    <NgayThang>08/03/2023</NgayThang>
-    <Buoi>Chiều</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
-    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
-    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
-    <Tiet>6 - 7</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>08/03/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="36">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Năm</Thu>
-    <NgayThang>09/03/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Trịnh Thị Hợp</GiangVien>
-    <Tiet>1 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>09/03/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="37">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Bảy</Thu>
-    <NgayThang>11/03/2023</NgayThang>
-    <Buoi>Chiều</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
-    <Tiet>6 - 10</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>11/03/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="38">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Hai</Thu>
-    <NgayThang>13/03/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Trịnh Thị Hợp</GiangVien>
-    <Tiet>1 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>13/03/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="39">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Ba</Thu>
-    <NgayThang>14/03/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
-    <Tiet>1 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>14/03/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="40">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Tư</Thu>
-    <NgayThang>15/03/2023</NgayThang>
-    <Buoi>Chiều</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
-    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
-    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
-    <Tiet>6 - 7</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>15/03/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="41">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Năm</Thu>
-    <NgayThang>16/03/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Trịnh Thị Hợp</GiangVien>
-    <Tiet>1 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>16/03/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="42">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Bảy</Thu>
-    <NgayThang>18/03/2023</NgayThang>
-    <Buoi>Chiều</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
-    <Tiet>6 - 10</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>18/03/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="43">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Hai</Thu>
-    <NgayThang>20/03/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Trịnh Thị Hợp</GiangVien>
-    <Tiet>1 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>20/03/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="44">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Ba</Thu>
-    <NgayThang>21/03/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
-    <Tiet>1 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>21/03/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="45">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Tư</Thu>
-    <NgayThang>22/03/2023</NgayThang>
-    <Buoi>Chiều</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
-    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
-    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
-    <Tiet>6 - 7</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>22/03/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="46">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Năm</Thu>
-    <NgayThang>23/03/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Trịnh Thị Hợp</GiangVien>
-    <Tiet>1 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>23/03/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="47">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Bảy</Thu>
-    <NgayThang>25/03/2023</NgayThang>
-    <Buoi>Chiều</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
-    <Tiet>6 - 10</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>25/03/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="48">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Hai</Thu>
-    <NgayThang>27/03/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Trịnh Thị Hợp</GiangVien>
-    <Tiet>1 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>27/03/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="49">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Ba</Thu>
-    <NgayThang>28/03/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
-    <Tiet>1 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>28/03/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="50">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Năm</Thu>
-    <NgayThang>30/03/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Trịnh Thị Hợp</GiangVien>
-    <Tiet>1 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>30/03/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="51">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Bảy</Thu>
-    <NgayThang>01/04/2023</NgayThang>
-    <Buoi>Chiều</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
-    <MonHoc>Tin học</MonHoc>
-    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
-    <Tiet>6 - 10</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>01/04/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="52">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Chủ nhật</Thu>
-    <NgayThang>02/04/2023</NgayThang>
-    <Buoi>Chiều</Buoi>
-    <LoaiDung>Lịch tự do</LoaiDung>
-    <LopHocKhoa>Đảm bảo chất lượng và Khảo thí</LopHocKhoa>
-    <MonHoc>Xin phòng chờ thi</MonHoc>
-    <GiangVien>Chưa có tên CBGD</GiangVien>
-    <Tiet>1 - 8</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>02/04/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="53">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Hai</Thu>
-    <NgayThang>03/04/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
-    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
-    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
-    <Tiet>1 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>03/04/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="54">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Ba</Thu>
-    <NgayThang>04/04/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
-    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
-    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
-    <Tiet>1 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>04/04/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="55">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Tư</Thu>
-    <NgayThang>05/04/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
-    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
-    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
-    <Tiet>1 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>05/04/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="56">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Tư</Thu>
-    <NgayThang>05/04/2023</NgayThang>
-    <Buoi>Chiều</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
-    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
-    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
-    <Tiet>6 - 10</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>05/04/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="57">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Năm</Thu>
-    <NgayThang>06/04/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
-    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
-    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
-    <Tiet>1 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>06/04/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="58">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Bảy</Thu>
-    <NgayThang>08/04/2023</NgayThang>
-    <Buoi>Chiều</Buoi>
-    <LoaiDung>Lịch tự do</LoaiDung>
-    <LopHocKhoa>Trung tâm Công nghệ thông tin và Truyền thông</LopHocKhoa>
-    <MonHoc>Thi đánh giá năng lực</MonHoc>
-    <GiangVien>Chưa có tên CBGD</GiangVien>
-    <Tiet>1 - 10</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>08/04/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="59">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Bảy</Thu>
-    <NgayThang>22/04/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>Tách nhóm lớp cao đẳng GDMN K44A (NĐ71)</LopHocKhoa>
-    <MonHoc>Ứng dụng CNTT trong GDMN.</MonHoc>
-    <GiangVien>Trịnh Thị Quyên</GiangVien>
-    <Tiet>1 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>22/04/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="60">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Bảy</Thu>
-    <NgayThang>22/04/2023</NgayThang>
-    <Buoi>Chiều</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>Tách nhóm lớp cao đẳng GDMN K44A (NĐ71)</LopHocKhoa>
-    <MonHoc>Ứng dụng CNTT trong GDMN.</MonHoc>
-    <GiangVien>Trịnh Thị Quyên</GiangVien>
-    <Tiet>6 - 10</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>22/04/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="61">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Chủ nhật</Thu>
-    <NgayThang>23/04/2023</NgayThang>
-    <Buoi>Sáng</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>Tách nhóm lớp cao đẳng GDMN K44A (NĐ71)</LopHocKhoa>
-    <MonHoc>Ứng dụng CNTT trong GDMN.</MonHoc>
-    <GiangVien>Trịnh Thị Quyên</GiangVien>
-    <Tiet>1 - 5</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>23/04/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="62">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Chủ nhật</Thu>
-    <NgayThang>23/04/2023</NgayThang>
-    <Buoi>Chiều</Buoi>
-    <LoaiDung>Lịch học</LoaiDung>
-    <LopHocKhoa>Tách nhóm lớp cao đẳng GDMN K44A (NĐ71)</LopHocKhoa>
-    <MonHoc>Ứng dụng CNTT trong GDMN.</MonHoc>
-    <GiangVien>Trịnh Thị Quyên</GiangVien>
-    <Tiet>6 - 10</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>23/04/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="63">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Thứ Bảy</Thu>
-    <NgayThang>13/05/2023</NgayThang>
-    <Buoi>Chiều</Buoi>
-    <LoaiDung>Lịch tự do</LoaiDung>
-    <LopHocKhoa>Trung tâm Công nghệ thông tin và Truyền thông</LopHocKhoa>
-    <MonHoc>Thi đánh giá năng lực</MonHoc>
-    <GiangVien>Chưa có tên CBGD</GiangVien>
-    <Tiet>1 - 10</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>13/05/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="64">
-    <TenToaNha>Toà nhà A6</TenToaNha>
-    <TenPhong>Phòng B.305</TenPhong>
-    <Thu>Chủ nhật</Thu>
-    <NgayThang>04/06/2023</NgayThang>
-    <Buoi>Chiều</Buoi>
-    <LoaiDung>Lịch tự do</LoaiDung>
-    <LopHocKhoa>Đảm bảo chất lượng và Khảo thí</LopHocKhoa>
-    <MonHoc>Xin phòng chờ thi</MonHoc>
-    <GiangVien>Chưa có tên CBGD</GiangVien>
-    <Tiet>1 - 8</Tiet>
-    <LoaiLich>Thực hành</LoaiLich>
-    <NgayThang_Show>04/06/2023</NgayThang_Show>
-  </SheduleRoom>
-  <SheduleRoom ID="65">
-    <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Sáu</Thu>
     <NgayThang>10/02/2023</NgayThang>
@@ -938,7 +28,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>10/02/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="66">
+  <SheduleRoom ID="1">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Sáu</Thu>
@@ -952,7 +42,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>10/02/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="67">
+  <SheduleRoom ID="2">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Bảy</Thu>
@@ -966,7 +56,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>11/02/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="68">
+  <SheduleRoom ID="3">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Chủ nhật</Thu>
@@ -980,7 +70,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>12/02/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="69">
+  <SheduleRoom ID="4">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Hai</Thu>
@@ -994,7 +84,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>13/02/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="70">
+  <SheduleRoom ID="5">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Hai</Thu>
@@ -1008,7 +98,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>13/02/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="71">
+  <SheduleRoom ID="6">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Ba</Thu>
@@ -1022,7 +112,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>14/02/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="72">
+  <SheduleRoom ID="7">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Ba</Thu>
@@ -1036,7 +126,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>14/02/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="73">
+  <SheduleRoom ID="8">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Tư</Thu>
@@ -1050,7 +140,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>15/02/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="74">
+  <SheduleRoom ID="9">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Tư</Thu>
@@ -1064,7 +154,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>15/02/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="75">
+  <SheduleRoom ID="10">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Năm</Thu>
@@ -1078,7 +168,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>16/02/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="76">
+  <SheduleRoom ID="11">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Năm</Thu>
@@ -1092,7 +182,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>16/02/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="77">
+  <SheduleRoom ID="12">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Sáu</Thu>
@@ -1106,7 +196,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>17/02/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="78">
+  <SheduleRoom ID="13">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Chủ nhật</Thu>
@@ -1120,7 +210,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>19/02/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="79">
+  <SheduleRoom ID="14">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Ba</Thu>
@@ -1134,7 +224,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>21/02/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="80">
+  <SheduleRoom ID="15">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Ba</Thu>
@@ -1148,7 +238,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>21/02/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="81">
+  <SheduleRoom ID="16">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Tư</Thu>
@@ -1162,7 +252,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>22/02/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="82">
+  <SheduleRoom ID="17">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Tư</Thu>
@@ -1176,7 +266,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>22/02/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="83">
+  <SheduleRoom ID="18">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Năm</Thu>
@@ -1190,7 +280,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>23/02/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="84">
+  <SheduleRoom ID="19">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Năm</Thu>
@@ -1204,7 +294,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>23/02/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="85">
+  <SheduleRoom ID="20">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Sáu</Thu>
@@ -1218,7 +308,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>24/02/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="86">
+  <SheduleRoom ID="21">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Sáu</Thu>
@@ -1232,7 +322,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>24/02/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="87">
+  <SheduleRoom ID="22">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Bảy</Thu>
@@ -1246,7 +336,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>25/02/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="88">
+  <SheduleRoom ID="23">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Bảy</Thu>
@@ -1260,7 +350,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>25/02/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="89">
+  <SheduleRoom ID="24">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Chủ nhật</Thu>
@@ -1274,7 +364,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>26/02/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="90">
+  <SheduleRoom ID="25">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Chủ nhật</Thu>
@@ -1288,7 +378,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>26/02/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="91">
+  <SheduleRoom ID="26">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Hai</Thu>
@@ -1302,7 +392,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>27/02/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="92">
+  <SheduleRoom ID="27">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Ba</Thu>
@@ -1316,7 +406,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>28/02/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="93">
+  <SheduleRoom ID="28">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Ba</Thu>
@@ -1330,7 +420,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>28/02/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="94">
+  <SheduleRoom ID="29">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Tư</Thu>
@@ -1344,7 +434,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>01/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="95">
+  <SheduleRoom ID="30">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Tư</Thu>
@@ -1358,7 +448,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>01/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="96">
+  <SheduleRoom ID="31">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Năm</Thu>
@@ -1372,7 +462,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>02/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="97">
+  <SheduleRoom ID="32">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Năm</Thu>
@@ -1386,7 +476,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>02/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="98">
+  <SheduleRoom ID="33">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Sáu</Thu>
@@ -1400,7 +490,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>03/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="99">
+  <SheduleRoom ID="34">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Sáu</Thu>
@@ -1414,7 +504,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>03/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="100">
+  <SheduleRoom ID="35">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Hai</Thu>
@@ -1428,7 +518,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>06/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="101">
+  <SheduleRoom ID="36">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Ba</Thu>
@@ -1442,7 +532,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>07/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="102">
+  <SheduleRoom ID="37">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Ba</Thu>
@@ -1456,7 +546,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>07/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="103">
+  <SheduleRoom ID="38">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Tư</Thu>
@@ -1470,7 +560,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>08/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="104">
+  <SheduleRoom ID="39">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Tư</Thu>
@@ -1484,7 +574,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>08/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="105">
+  <SheduleRoom ID="40">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Năm</Thu>
@@ -1498,7 +588,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>09/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="106">
+  <SheduleRoom ID="41">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Năm</Thu>
@@ -1512,7 +602,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>09/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="107">
+  <SheduleRoom ID="42">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Sáu</Thu>
@@ -1526,7 +616,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>10/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="108">
+  <SheduleRoom ID="43">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Sáu</Thu>
@@ -1540,7 +630,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>10/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="109">
+  <SheduleRoom ID="44">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Hai</Thu>
@@ -1554,7 +644,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>13/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="110">
+  <SheduleRoom ID="45">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Hai</Thu>
@@ -1568,7 +658,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>13/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="111">
+  <SheduleRoom ID="46">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Ba</Thu>
@@ -1582,7 +672,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>14/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="112">
+  <SheduleRoom ID="47">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Ba</Thu>
@@ -1596,7 +686,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>14/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="113">
+  <SheduleRoom ID="48">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Tư</Thu>
@@ -1610,7 +700,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>15/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="114">
+  <SheduleRoom ID="49">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Tư</Thu>
@@ -1624,7 +714,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>15/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="115">
+  <SheduleRoom ID="50">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Năm</Thu>
@@ -1638,7 +728,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>16/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="116">
+  <SheduleRoom ID="51">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Sáu</Thu>
@@ -1652,7 +742,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>17/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="117">
+  <SheduleRoom ID="52">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Sáu</Thu>
@@ -1666,7 +756,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>17/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="118">
+  <SheduleRoom ID="53">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Hai</Thu>
@@ -1680,7 +770,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>20/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="119">
+  <SheduleRoom ID="54">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Hai</Thu>
@@ -1694,7 +784,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>20/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="120">
+  <SheduleRoom ID="55">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Ba</Thu>
@@ -1708,7 +798,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>21/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="121">
+  <SheduleRoom ID="56">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Ba</Thu>
@@ -1722,7 +812,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>21/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="122">
+  <SheduleRoom ID="57">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Tư</Thu>
@@ -1736,7 +826,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>22/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="123">
+  <SheduleRoom ID="58">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Tư</Thu>
@@ -1750,7 +840,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>22/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="124">
+  <SheduleRoom ID="59">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Năm</Thu>
@@ -1764,7 +854,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>23/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="125">
+  <SheduleRoom ID="60">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Sáu</Thu>
@@ -1778,7 +868,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>24/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="126">
+  <SheduleRoom ID="61">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Sáu</Thu>
@@ -1792,7 +882,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>24/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="127">
+  <SheduleRoom ID="62">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Hai</Thu>
@@ -1806,7 +896,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>27/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="128">
+  <SheduleRoom ID="63">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Hai</Thu>
@@ -1820,7 +910,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>27/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="129">
+  <SheduleRoom ID="64">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Ba</Thu>
@@ -1834,7 +924,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>28/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="130">
+  <SheduleRoom ID="65">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Tư</Thu>
@@ -1848,7 +938,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>29/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="131">
+  <SheduleRoom ID="66">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Năm</Thu>
@@ -1862,7 +952,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>30/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="132">
+  <SheduleRoom ID="67">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Sáu</Thu>
@@ -1876,7 +966,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>31/03/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="133">
+  <SheduleRoom ID="68">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Chủ nhật</Thu>
@@ -1890,7 +980,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>02/04/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="134">
+  <SheduleRoom ID="69">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Hai</Thu>
@@ -1904,7 +994,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>03/04/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="135">
+  <SheduleRoom ID="70">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Hai</Thu>
@@ -1918,7 +1008,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>03/04/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="136">
+  <SheduleRoom ID="71">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Ba</Thu>
@@ -1932,7 +1022,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>04/04/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="137">
+  <SheduleRoom ID="72">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Ba</Thu>
@@ -1946,7 +1036,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>04/04/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="138">
+  <SheduleRoom ID="73">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Tư</Thu>
@@ -1960,7 +1050,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>05/04/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="139">
+  <SheduleRoom ID="74">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Tư</Thu>
@@ -1974,7 +1064,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>05/04/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="140">
+  <SheduleRoom ID="75">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Năm</Thu>
@@ -1988,7 +1078,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>06/04/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="141">
+  <SheduleRoom ID="76">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Sáu</Thu>
@@ -2002,7 +1092,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>07/04/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="142">
+  <SheduleRoom ID="77">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Sáu</Thu>
@@ -2016,7 +1106,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>07/04/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="143">
+  <SheduleRoom ID="78">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Bảy</Thu>
@@ -2030,7 +1120,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>08/04/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="144">
+  <SheduleRoom ID="79">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Thứ Bảy</Thu>
@@ -2044,7 +1134,7 @@
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>13/05/2023</NgayThang_Show>
   </SheduleRoom>
-  <SheduleRoom ID="145">
+  <SheduleRoom ID="80">
     <TenToaNha>Toà nhà A6</TenToaNha>
     <TenPhong>Phòng B.306</TenPhong>
     <Thu>Chủ nhật</Thu>
@@ -2057,5 +1147,2161 @@
     <Tiet>1 - 8</Tiet>
     <LoaiLich>Thực hành</LoaiLich>
     <NgayThang_Show>04/06/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="81">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Sáu</Thu>
+    <NgayThang>10/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch thi</LoaiDung>
+    <LopHocKhoa>K23C ĐH Luật (LT từ CĐ)</LopHocKhoa>
+    <MonHoc>Cơ sở văn hoá Việt Nam</MonHoc>
+    <GiangVien>Lịch thi</GiangVien>
+    <Tiet>1 - 3</Tiet>
+    <LoaiLich>Lý thuyết</LoaiLich>
+    <NgayThang_Show>10/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="82">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Bảy</Thu>
+    <NgayThang>11/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24D ĐH Kế toán (VLVH)</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>2 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>11/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="83">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Chủ nhật</Thu>
+    <NgayThang>12/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24D ĐH Kế toán (VLVH)</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>2 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>12/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="84">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Ba</Thu>
+    <NgayThang>14/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>14/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="85">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Tư</Thu>
+    <NgayThang>15/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24E_ĐH Kế toán_216401E</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Lê Đức Thọ</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>15/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="86">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Tư</Thu>
+    <NgayThang>15/02/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
+    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
+    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
+    <Tiet>6 - 7</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>15/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="87">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Năm</Thu>
+    <NgayThang>16/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>16/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="88">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Sáu</Thu>
+    <NgayThang>17/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24D_ĐH Kế toán_216401D</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Phú</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>17/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="89">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Bảy</Thu>
+    <NgayThang>18/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24D ĐH Kế toán (VLVH)</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>2 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>18/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="90">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Chủ nhật</Thu>
+    <NgayThang>19/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24D ĐH Kế toán (VLVH)</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>2 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>19/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="91">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Chủ nhật</Thu>
+    <NgayThang>19/02/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K44A CĐGD Mầm non (NĐ71)</LopHocKhoa>
+    <MonHoc>Tin học.</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>6 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>19/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="92">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Hai</Thu>
+    <NgayThang>20/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>20/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="93">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Ba</Thu>
+    <NgayThang>21/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>21/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="94">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Tư</Thu>
+    <NgayThang>22/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24E_ĐH Kế toán_216401E</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Lê Đức Thọ</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>22/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="95">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Tư</Thu>
+    <NgayThang>22/02/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
+    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
+    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
+    <Tiet>6 - 7</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>22/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="96">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Năm</Thu>
+    <NgayThang>23/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>23/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="97">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Năm</Thu>
+    <NgayThang>23/02/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K44A CĐGD Mầm non (NĐ71)</LopHocKhoa>
+    <MonHoc>Tin học.</MonHoc>
+    <GiangVien>Trịnh Thị Phú</GiangVien>
+    <Tiet>6 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>23/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="98">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Sáu</Thu>
+    <NgayThang>24/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24D_ĐH Kế toán_216401D</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Phú</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>24/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="99">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Sáu</Thu>
+    <NgayThang>24/02/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
+    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
+    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
+    <Tiet>6 - 7</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>24/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="100">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Bảy</Thu>
+    <NgayThang>25/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24D ĐH Kế toán (VLVH)</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>2 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>25/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="101">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Bảy</Thu>
+    <NgayThang>25/02/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K44A CĐGD Mầm non (NĐ71)</LopHocKhoa>
+    <MonHoc>Tin học.</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>6 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>25/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="102">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Chủ nhật</Thu>
+    <NgayThang>26/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K44A CĐGD Mầm non (NĐ71)</LopHocKhoa>
+    <MonHoc>Tin học.</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>26/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="103">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Chủ nhật</Thu>
+    <NgayThang>26/02/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K44A CĐGD Mầm non (NĐ71)</LopHocKhoa>
+    <MonHoc>Tin học.</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>6 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>26/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="104">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Hai</Thu>
+    <NgayThang>27/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>27/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="105">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Ba</Thu>
+    <NgayThang>28/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>28/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="106">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Tư</Thu>
+    <NgayThang>01/03/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24E_ĐH Kế toán_216401E</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Lê Đức Thọ</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>01/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="107">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Tư</Thu>
+    <NgayThang>01/03/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
+    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
+    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
+    <Tiet>6 - 7</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>01/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="108">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Năm</Thu>
+    <NgayThang>02/03/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>02/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="109">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Năm</Thu>
+    <NgayThang>02/03/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K44A CĐGD Mầm non (NĐ71)</LopHocKhoa>
+    <MonHoc>Tin học.</MonHoc>
+    <GiangVien>Lê Đức Thọ</GiangVien>
+    <Tiet>6 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>02/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="110">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Sáu</Thu>
+    <NgayThang>03/03/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K44A CĐGD Mầm non (NĐ71)</LopHocKhoa>
+    <MonHoc>Tin học.</MonHoc>
+    <GiangVien>Lê Đức Thọ</GiangVien>
+    <Tiet>6 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>03/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="111">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Bảy</Thu>
+    <NgayThang>04/03/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
+    <Tiet>6 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>04/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="112">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Hai</Thu>
+    <NgayThang>06/03/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>06/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="113">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Ba</Thu>
+    <NgayThang>07/03/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>07/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="114">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Tư</Thu>
+    <NgayThang>08/03/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24E_ĐH Kế toán_216401E</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Lê Đức Thọ</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>08/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="115">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Tư</Thu>
+    <NgayThang>08/03/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
+    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
+    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
+    <Tiet>6 - 7</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>08/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="116">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Năm</Thu>
+    <NgayThang>09/03/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>09/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="117">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Bảy</Thu>
+    <NgayThang>11/03/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
+    <Tiet>6 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>11/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="118">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Hai</Thu>
+    <NgayThang>13/03/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>13/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="119">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Ba</Thu>
+    <NgayThang>14/03/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>14/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="120">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Tư</Thu>
+    <NgayThang>15/03/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
+    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
+    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
+    <Tiet>6 - 7</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>15/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="121">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Năm</Thu>
+    <NgayThang>16/03/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>16/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="122">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Bảy</Thu>
+    <NgayThang>18/03/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
+    <Tiet>6 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>18/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="123">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Hai</Thu>
+    <NgayThang>20/03/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>20/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="124">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Ba</Thu>
+    <NgayThang>21/03/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>21/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="125">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Tư</Thu>
+    <NgayThang>22/03/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
+    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
+    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
+    <Tiet>6 - 7</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>22/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="126">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Năm</Thu>
+    <NgayThang>23/03/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>23/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="127">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Bảy</Thu>
+    <NgayThang>25/03/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
+    <Tiet>6 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>25/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="128">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Hai</Thu>
+    <NgayThang>27/03/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>27/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="129">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Ba</Thu>
+    <NgayThang>28/03/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>28/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="130">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Năm</Thu>
+    <NgayThang>30/03/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>30/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="131">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Bảy</Thu>
+    <NgayThang>01/04/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
+    <Tiet>6 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>01/04/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="132">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Chủ nhật</Thu>
+    <NgayThang>02/04/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch tự do</LoaiDung>
+    <LopHocKhoa>Đảm bảo chất lượng và Khảo thí</LopHocKhoa>
+    <MonHoc>Xin phòng chờ thi</MonHoc>
+    <GiangVien>Chưa có tên CBGD</GiangVien>
+    <Tiet>1 - 8</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>02/04/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="133">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Hai</Thu>
+    <NgayThang>03/04/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
+    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
+    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>03/04/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="134">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Ba</Thu>
+    <NgayThang>04/04/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
+    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
+    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>04/04/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="135">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Tư</Thu>
+    <NgayThang>05/04/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
+    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
+    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>05/04/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="136">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Tư</Thu>
+    <NgayThang>05/04/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
+    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
+    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
+    <Tiet>6 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>05/04/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="137">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Năm</Thu>
+    <NgayThang>06/04/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
+    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
+    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>06/04/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="138">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Bảy</Thu>
+    <NgayThang>08/04/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch tự do</LoaiDung>
+    <LopHocKhoa>Trung tâm Công nghệ thông tin và Truyền thông</LopHocKhoa>
+    <MonHoc>Thi đánh giá năng lực</MonHoc>
+    <GiangVien>Chưa có tên CBGD</GiangVien>
+    <Tiet>1 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>08/04/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="139">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Ba</Thu>
+    <NgayThang>11/04/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K25_ĐH Kỹ thuật xây dựng_226107A</LopHocKhoa>
+    <MonHoc>Vẽ kỹ thuật và mô phỏng</MonHoc>
+    <GiangVien>Lê Thị Thương</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>11/04/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="140">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Ba</Thu>
+    <NgayThang>18/04/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K25_ĐH Kỹ thuật xây dựng_226107A</LopHocKhoa>
+    <MonHoc>Vẽ kỹ thuật và mô phỏng</MonHoc>
+    <GiangVien>Lê Thị Thương</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>18/04/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="141">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Bảy</Thu>
+    <NgayThang>22/04/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>Tách nhóm lớp cao đẳng GDMN K44A (NĐ71)</LopHocKhoa>
+    <MonHoc>Ứng dụng CNTT trong GDMN.</MonHoc>
+    <GiangVien>Trịnh Thị Quyên</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>22/04/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="142">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Bảy</Thu>
+    <NgayThang>22/04/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>Tách nhóm lớp cao đẳng GDMN K44A (NĐ71)</LopHocKhoa>
+    <MonHoc>Ứng dụng CNTT trong GDMN.</MonHoc>
+    <GiangVien>Trịnh Thị Quyên</GiangVien>
+    <Tiet>6 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>22/04/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="143">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Chủ nhật</Thu>
+    <NgayThang>23/04/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>Tách nhóm lớp cao đẳng GDMN K44A (NĐ71)</LopHocKhoa>
+    <MonHoc>Ứng dụng CNTT trong GDMN.</MonHoc>
+    <GiangVien>Trịnh Thị Quyên</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>23/04/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="144">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Chủ nhật</Thu>
+    <NgayThang>23/04/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>Tách nhóm lớp cao đẳng GDMN K44A (NĐ71)</LopHocKhoa>
+    <MonHoc>Ứng dụng CNTT trong GDMN.</MonHoc>
+    <GiangVien>Trịnh Thị Quyên</GiangVien>
+    <Tiet>6 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>23/04/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="145">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Bảy</Thu>
+    <NgayThang>13/05/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch tự do</LoaiDung>
+    <LopHocKhoa>Trung tâm Công nghệ thông tin và Truyền thông</LopHocKhoa>
+    <MonHoc>Thi đánh giá năng lực</MonHoc>
+    <GiangVien>Chưa có tên CBGD</GiangVien>
+    <Tiet>1 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>13/05/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="146">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Ba</Thu>
+    <NgayThang>23/05/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K25_ĐH Kỹ thuật xây dựng_226107A</LopHocKhoa>
+    <MonHoc>Vẽ kỹ thuật và mô phỏng</MonHoc>
+    <GiangVien>Lê Thị Thương</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>23/05/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="147">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Tư</Thu>
+    <NgayThang>24/05/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K25_ĐH Kỹ thuật điện_226203A</LopHocKhoa>
+    <MonHoc>Vẽ điện trong AutoCad</MonHoc>
+    <GiangVien>Hà Xuân Giáp</GiangVien>
+    <Tiet>7 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>24/05/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="148">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Ba</Thu>
+    <NgayThang>30/05/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K25_ĐH Kỹ thuật xây dựng_226107A</LopHocKhoa>
+    <MonHoc>Vẽ kỹ thuật và mô phỏng</MonHoc>
+    <GiangVien>Lê Thị Thương</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>30/05/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="149">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Tư</Thu>
+    <NgayThang>31/05/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K25_ĐH Kỹ thuật điện_226203A</LopHocKhoa>
+    <MonHoc>Vẽ điện trong AutoCad</MonHoc>
+    <GiangVien>Hà Xuân Giáp</GiangVien>
+    <Tiet>7 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>31/05/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="150">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Chủ nhật</Thu>
+    <NgayThang>04/06/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch tự do</LoaiDung>
+    <LopHocKhoa>Đảm bảo chất lượng và Khảo thí</LopHocKhoa>
+    <MonHoc>Xin phòng chờ thi</MonHoc>
+    <GiangVien>Chưa có tên CBGD</GiangVien>
+    <Tiet>1 - 8</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>04/06/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="151">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Ba</Thu>
+    <NgayThang>06/06/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K25_ĐH Kỹ thuật xây dựng_226107A</LopHocKhoa>
+    <MonHoc>Vẽ kỹ thuật và mô phỏng</MonHoc>
+    <GiangVien>Lê Thị Thương</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>06/06/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="152">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Tư</Thu>
+    <NgayThang>07/06/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K25_ĐH Kỹ thuật điện_226203A</LopHocKhoa>
+    <MonHoc>Vẽ điện trong AutoCad</MonHoc>
+    <GiangVien>Hà Xuân Giáp</GiangVien>
+    <Tiet>6 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>07/06/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="153">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Hai</Thu>
+    <NgayThang>12/06/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K25_ĐH Kỹ thuật xây dựng_226107A</LopHocKhoa>
+    <MonHoc>Vẽ kỹ thuật và mô phỏng</MonHoc>
+    <GiangVien>Lê Thị Thương</GiangVien>
+    <Tiet>1 - 4</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>12/06/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="154">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Ba</Thu>
+    <NgayThang>13/06/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K25_ĐH Kỹ thuật xây dựng_226107A</LopHocKhoa>
+    <MonHoc>Vẽ kỹ thuật và mô phỏng</MonHoc>
+    <GiangVien>Lê Thị Thương</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>13/06/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="155">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Tư</Thu>
+    <NgayThang>14/06/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K25_ĐH Kỹ thuật điện_226203A</LopHocKhoa>
+    <MonHoc>Vẽ điện trong AutoCad</MonHoc>
+    <GiangVien>Hà Xuân Giáp</GiangVien>
+    <Tiet>6 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>14/06/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="156">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Hai</Thu>
+    <NgayThang>19/06/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K25_ĐH Kỹ thuật xây dựng_226107A</LopHocKhoa>
+    <MonHoc>Vẽ kỹ thuật và mô phỏng</MonHoc>
+    <GiangVien>Lê Thị Thương</GiangVien>
+    <Tiet>1 - 4</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>19/06/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="157">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.305</TenPhong>
+    <Thu>Thứ Ba</Thu>
+    <NgayThang>20/06/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K25_ĐH Kỹ thuật xây dựng_226107A</LopHocKhoa>
+    <MonHoc>Vẽ kỹ thuật và mô phỏng</MonHoc>
+    <GiangVien>Lê Thị Thương</GiangVien>
+    <Tiet>1 - 4</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>20/06/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="158">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Sáu</Thu>
+    <NgayThang>10/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch thi</LoaiDung>
+    <LopHocKhoa>K23C ĐH Luật (LT từ CĐ)</LopHocKhoa>
+    <MonHoc>Cơ sở văn hoá Việt Nam</MonHoc>
+    <GiangVien>Lịch thi</GiangVien>
+    <Tiet>1 - 3</Tiet>
+    <LoaiLich>Lý thuyết</LoaiLich>
+    <NgayThang_Show>10/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="159">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Bảy</Thu>
+    <NgayThang>11/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24D ĐH Kế toán (VLVH)</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>2 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>11/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="160">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Chủ nhật</Thu>
+    <NgayThang>12/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24D ĐH Kế toán (VLVH)</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>2 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>12/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="161">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Ba</Thu>
+    <NgayThang>14/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>14/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="162">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Tư</Thu>
+    <NgayThang>15/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24E_ĐH Kế toán_216401E</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Lê Đức Thọ</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>15/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="163">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Tư</Thu>
+    <NgayThang>15/02/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
+    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
+    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
+    <Tiet>6 - 7</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>15/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="164">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Năm</Thu>
+    <NgayThang>16/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>16/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="165">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Sáu</Thu>
+    <NgayThang>17/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24D_ĐH Kế toán_216401D</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Phú</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>17/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="166">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Bảy</Thu>
+    <NgayThang>18/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24D ĐH Kế toán (VLVH)</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>2 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>18/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="167">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Chủ nhật</Thu>
+    <NgayThang>19/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24D ĐH Kế toán (VLVH)</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>2 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>19/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="168">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Chủ nhật</Thu>
+    <NgayThang>19/02/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K44A CĐGD Mầm non (NĐ71)</LopHocKhoa>
+    <MonHoc>Tin học.</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>6 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>19/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="169">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Hai</Thu>
+    <NgayThang>20/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>20/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="170">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Ba</Thu>
+    <NgayThang>21/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>21/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="171">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Tư</Thu>
+    <NgayThang>22/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24E_ĐH Kế toán_216401E</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Lê Đức Thọ</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>22/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="172">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Tư</Thu>
+    <NgayThang>22/02/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
+    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
+    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
+    <Tiet>6 - 7</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>22/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="173">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Năm</Thu>
+    <NgayThang>23/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>23/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="174">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Năm</Thu>
+    <NgayThang>23/02/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K44A CĐGD Mầm non (NĐ71)</LopHocKhoa>
+    <MonHoc>Tin học.</MonHoc>
+    <GiangVien>Trịnh Thị Phú</GiangVien>
+    <Tiet>6 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>23/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="175">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Sáu</Thu>
+    <NgayThang>24/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24D_ĐH Kế toán_216401D</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Phú</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>24/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="176">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Sáu</Thu>
+    <NgayThang>24/02/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
+    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
+    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
+    <Tiet>6 - 7</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>24/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="177">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Bảy</Thu>
+    <NgayThang>25/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24D ĐH Kế toán (VLVH)</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>2 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>25/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="178">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Bảy</Thu>
+    <NgayThang>25/02/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K44A CĐGD Mầm non (NĐ71)</LopHocKhoa>
+    <MonHoc>Tin học.</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>6 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>25/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="179">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Chủ nhật</Thu>
+    <NgayThang>26/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K44A CĐGD Mầm non (NĐ71)</LopHocKhoa>
+    <MonHoc>Tin học.</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>26/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="180">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Chủ nhật</Thu>
+    <NgayThang>26/02/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K44A CĐGD Mầm non (NĐ71)</LopHocKhoa>
+    <MonHoc>Tin học.</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>6 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>26/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="181">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Hai</Thu>
+    <NgayThang>27/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>27/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="182">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Ba</Thu>
+    <NgayThang>28/02/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>28/02/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="183">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Tư</Thu>
+    <NgayThang>01/03/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24E_ĐH Kế toán_216401E</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Lê Đức Thọ</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>01/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="184">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Tư</Thu>
+    <NgayThang>01/03/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
+    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
+    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
+    <Tiet>6 - 7</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>01/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="185">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Năm</Thu>
+    <NgayThang>02/03/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>02/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="186">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Năm</Thu>
+    <NgayThang>02/03/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K44A CĐGD Mầm non (NĐ71)</LopHocKhoa>
+    <MonHoc>Tin học.</MonHoc>
+    <GiangVien>Lê Đức Thọ</GiangVien>
+    <Tiet>6 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>02/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="187">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Sáu</Thu>
+    <NgayThang>03/03/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K44A CĐGD Mầm non (NĐ71)</LopHocKhoa>
+    <MonHoc>Tin học.</MonHoc>
+    <GiangVien>Lê Đức Thọ</GiangVien>
+    <Tiet>6 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>03/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="188">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Bảy</Thu>
+    <NgayThang>04/03/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
+    <Tiet>6 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>04/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="189">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Hai</Thu>
+    <NgayThang>06/03/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>06/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="190">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Ba</Thu>
+    <NgayThang>07/03/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>07/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="191">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Tư</Thu>
+    <NgayThang>08/03/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24E_ĐH Kế toán_216401E</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Lê Đức Thọ</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>08/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="192">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Tư</Thu>
+    <NgayThang>08/03/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
+    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
+    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
+    <Tiet>6 - 7</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>08/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="193">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Năm</Thu>
+    <NgayThang>09/03/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>09/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="194">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Bảy</Thu>
+    <NgayThang>11/03/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
+    <Tiet>6 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>11/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="195">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Hai</Thu>
+    <NgayThang>13/03/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>13/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="196">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Ba</Thu>
+    <NgayThang>14/03/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>14/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="197">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Tư</Thu>
+    <NgayThang>15/03/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
+    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
+    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
+    <Tiet>6 - 7</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>15/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="198">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Năm</Thu>
+    <NgayThang>16/03/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>16/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="199">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Bảy</Thu>
+    <NgayThang>18/03/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
+    <Tiet>6 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>18/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="200">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Hai</Thu>
+    <NgayThang>20/03/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>20/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="201">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Ba</Thu>
+    <NgayThang>21/03/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>21/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="202">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Tư</Thu>
+    <NgayThang>22/03/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
+    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
+    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
+    <Tiet>6 - 7</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>22/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="203">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Năm</Thu>
+    <NgayThang>23/03/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>23/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="204">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Bảy</Thu>
+    <NgayThang>25/03/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
+    <Tiet>6 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>25/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="205">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Hai</Thu>
+    <NgayThang>27/03/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>27/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="206">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Ba</Thu>
+    <NgayThang>28/03/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24B_ĐH Kế toán_216401B</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>28/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="207">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Năm</Thu>
+    <NgayThang>30/03/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Trịnh Thị Hợp</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>30/03/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="208">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Bảy</Thu>
+    <NgayThang>01/04/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24A_ĐH Kế toán_216401A</LopHocKhoa>
+    <MonHoc>Tin học</MonHoc>
+    <GiangVien>Nguyễn Đình Thịnh</GiangVien>
+    <Tiet>6 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>01/04/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="209">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Chủ nhật</Thu>
+    <NgayThang>02/04/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch tự do</LoaiDung>
+    <LopHocKhoa>Đảm bảo chất lượng và Khảo thí</LopHocKhoa>
+    <MonHoc>Xin phòng chờ thi</MonHoc>
+    <GiangVien>Chưa có tên CBGD</GiangVien>
+    <Tiet>1 - 8</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>02/04/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="210">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Hai</Thu>
+    <NgayThang>03/04/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
+    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
+    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>03/04/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="211">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Ba</Thu>
+    <NgayThang>04/04/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
+    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
+    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>04/04/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="212">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Tư</Thu>
+    <NgayThang>05/04/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
+    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
+    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>05/04/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="213">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Tư</Thu>
+    <NgayThang>05/04/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
+    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
+    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
+    <Tiet>6 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>05/04/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="214">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Năm</Thu>
+    <NgayThang>06/04/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K24_ĐH Kỹ thuật điện_216203A</LopHocKhoa>
+    <MonHoc>Kỹ thuật mô phỏng trong kỹ thuật điện</MonHoc>
+    <GiangVien>Vũ Sỹ Kỷ</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>06/04/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="215">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Bảy</Thu>
+    <NgayThang>08/04/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch tự do</LoaiDung>
+    <LopHocKhoa>Trung tâm Công nghệ thông tin và Truyền thông</LopHocKhoa>
+    <MonHoc>Thi đánh giá năng lực</MonHoc>
+    <GiangVien>Chưa có tên CBGD</GiangVien>
+    <Tiet>1 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>08/04/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="216">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Ba</Thu>
+    <NgayThang>11/04/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K25_ĐH Kỹ thuật xây dựng_226107A</LopHocKhoa>
+    <MonHoc>Vẽ kỹ thuật và mô phỏng</MonHoc>
+    <GiangVien>Lê Thị Thương</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>11/04/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="217">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Ba</Thu>
+    <NgayThang>18/04/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K25_ĐH Kỹ thuật xây dựng_226107A</LopHocKhoa>
+    <MonHoc>Vẽ kỹ thuật và mô phỏng</MonHoc>
+    <GiangVien>Lê Thị Thương</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>18/04/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="218">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Bảy</Thu>
+    <NgayThang>22/04/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>Tách nhóm lớp cao đẳng GDMN K44A (NĐ71)</LopHocKhoa>
+    <MonHoc>Ứng dụng CNTT trong GDMN.</MonHoc>
+    <GiangVien>Trịnh Thị Quyên</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>22/04/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="219">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Bảy</Thu>
+    <NgayThang>22/04/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>Tách nhóm lớp cao đẳng GDMN K44A (NĐ71)</LopHocKhoa>
+    <MonHoc>Ứng dụng CNTT trong GDMN.</MonHoc>
+    <GiangVien>Trịnh Thị Quyên</GiangVien>
+    <Tiet>6 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>22/04/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="220">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Chủ nhật</Thu>
+    <NgayThang>23/04/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>Tách nhóm lớp cao đẳng GDMN K44A (NĐ71)</LopHocKhoa>
+    <MonHoc>Ứng dụng CNTT trong GDMN.</MonHoc>
+    <GiangVien>Trịnh Thị Quyên</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>23/04/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="221">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Chủ nhật</Thu>
+    <NgayThang>23/04/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>Tách nhóm lớp cao đẳng GDMN K44A (NĐ71)</LopHocKhoa>
+    <MonHoc>Ứng dụng CNTT trong GDMN.</MonHoc>
+    <GiangVien>Trịnh Thị Quyên</GiangVien>
+    <Tiet>6 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>23/04/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="222">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Bảy</Thu>
+    <NgayThang>13/05/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch tự do</LoaiDung>
+    <LopHocKhoa>Trung tâm Công nghệ thông tin và Truyền thông</LopHocKhoa>
+    <MonHoc>Thi đánh giá năng lực</MonHoc>
+    <GiangVien>Chưa có tên CBGD</GiangVien>
+    <Tiet>1 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>13/05/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="223">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Ba</Thu>
+    <NgayThang>23/05/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K25_ĐH Kỹ thuật xây dựng_226107A</LopHocKhoa>
+    <MonHoc>Vẽ kỹ thuật và mô phỏng</MonHoc>
+    <GiangVien>Lê Thị Thương</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>23/05/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="224">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Tư</Thu>
+    <NgayThang>24/05/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K25_ĐH Kỹ thuật điện_226203A</LopHocKhoa>
+    <MonHoc>Vẽ điện trong AutoCad</MonHoc>
+    <GiangVien>Hà Xuân Giáp</GiangVien>
+    <Tiet>7 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>24/05/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="225">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Ba</Thu>
+    <NgayThang>30/05/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K25_ĐH Kỹ thuật xây dựng_226107A</LopHocKhoa>
+    <MonHoc>Vẽ kỹ thuật và mô phỏng</MonHoc>
+    <GiangVien>Lê Thị Thương</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>30/05/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="226">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Tư</Thu>
+    <NgayThang>31/05/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K25_ĐH Kỹ thuật điện_226203A</LopHocKhoa>
+    <MonHoc>Vẽ điện trong AutoCad</MonHoc>
+    <GiangVien>Hà Xuân Giáp</GiangVien>
+    <Tiet>7 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>31/05/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="227">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Chủ nhật</Thu>
+    <NgayThang>04/06/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch tự do</LoaiDung>
+    <LopHocKhoa>Đảm bảo chất lượng và Khảo thí</LopHocKhoa>
+    <MonHoc>Xin phòng chờ thi</MonHoc>
+    <GiangVien>Chưa có tên CBGD</GiangVien>
+    <Tiet>1 - 8</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>04/06/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="228">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Ba</Thu>
+    <NgayThang>06/06/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K25_ĐH Kỹ thuật xây dựng_226107A</LopHocKhoa>
+    <MonHoc>Vẽ kỹ thuật và mô phỏng</MonHoc>
+    <GiangVien>Lê Thị Thương</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>06/06/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="229">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Tư</Thu>
+    <NgayThang>07/06/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K25_ĐH Kỹ thuật điện_226203A</LopHocKhoa>
+    <MonHoc>Vẽ điện trong AutoCad</MonHoc>
+    <GiangVien>Hà Xuân Giáp</GiangVien>
+    <Tiet>6 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>07/06/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="230">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Hai</Thu>
+    <NgayThang>12/06/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K25_ĐH Kỹ thuật xây dựng_226107A</LopHocKhoa>
+    <MonHoc>Vẽ kỹ thuật và mô phỏng</MonHoc>
+    <GiangVien>Lê Thị Thương</GiangVien>
+    <Tiet>1 - 4</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>12/06/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="231">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Ba</Thu>
+    <NgayThang>13/06/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K25_ĐH Kỹ thuật xây dựng_226107A</LopHocKhoa>
+    <MonHoc>Vẽ kỹ thuật và mô phỏng</MonHoc>
+    <GiangVien>Lê Thị Thương</GiangVien>
+    <Tiet>1 - 5</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>13/06/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="232">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Tư</Thu>
+    <NgayThang>14/06/2023</NgayThang>
+    <Buoi>Chiều</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K25_ĐH Kỹ thuật điện_226203A</LopHocKhoa>
+    <MonHoc>Vẽ điện trong AutoCad</MonHoc>
+    <GiangVien>Hà Xuân Giáp</GiangVien>
+    <Tiet>6 - 10</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>14/06/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="233">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Hai</Thu>
+    <NgayThang>19/06/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K25_ĐH Kỹ thuật xây dựng_226107A</LopHocKhoa>
+    <MonHoc>Vẽ kỹ thuật và mô phỏng</MonHoc>
+    <GiangVien>Lê Thị Thương</GiangVien>
+    <Tiet>1 - 4</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>19/06/2023</NgayThang_Show>
+  </SheduleRoom>
+  <SheduleRoom ID="234">
+    <TenToaNha>Toà nhà A6</TenToaNha>
+    <TenPhong>Phòng B.307</TenPhong>
+    <Thu>Thứ Ba</Thu>
+    <NgayThang>20/06/2023</NgayThang>
+    <Buoi>Sáng</Buoi>
+    <LoaiDung>Lịch học</LoaiDung>
+    <LopHocKhoa>K25_ĐH Kỹ thuật xây dựng_226107A</LopHocKhoa>
+    <MonHoc>Vẽ kỹ thuật và mô phỏng</MonHoc>
+    <GiangVien>Lê Thị Thương</GiangVien>
+    <Tiet>1 - 4</Tiet>
+    <LoaiLich>Thực hành</LoaiLich>
+    <NgayThang_Show>20/06/2023</NgayThang_Show>
   </SheduleRoom>
 </SheduleRoomAll>

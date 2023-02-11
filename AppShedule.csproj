@@ -78,6 +78,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Page Include="FexportStat.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Fimport.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -91,6 +95,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="dbAppShedule.cs" />
+    <Compile Include="FexportStat.xaml.cs">
+      <DependentUpon>FexportStat.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Fimport.xaml.cs">
       <DependentUpon>Fimport.xaml</DependentUpon>
     </Compile>
