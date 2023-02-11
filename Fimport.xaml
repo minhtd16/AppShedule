@@ -74,7 +74,7 @@
                         Header="Tên thứ" />
                     <GridViewColumn
                         Width="75"
-                        DisplayMemberBinding="{Binding NgayThang}"
+                        DisplayMemberBinding="{Binding NgayThang_Show}"
                         Header="Ngày học" />
                     <GridViewColumn
                         Width="60"

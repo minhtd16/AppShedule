@@ -124,6 +124,13 @@
                 Height="26"
                 Margin="2"
                 Content="Add" />
+            <Button
+                Name="btDelAll"
+                Width="45"
+                Height="26"
+                Margin="2"
+                Click="btDelAll_Click"
+                Content="Del All" />
 
             <Button
                 Name="btEXport"

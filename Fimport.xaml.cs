@@ -216,8 +216,11 @@ namespace AppShedule
                 {
                     if (room.LoaiDung != "Không có lịch" && room.LopHocKhoa != "Không có lịch" && room.MonHoc != "Không có lịch")
                     {
-                        importTrue++;
-                        if (f.SheduleRoom_Insert(room) == false)
+                        if (f.SheduleRoom_Insert(room) == true)
+                        {
+                            importTrue++;
+                        }
+                        else
                         {
                             MessageBox.Show("thông báo các lỗi", "Thông báo", MessageBoxButton.OK, MessageBoxImage.Warning);
                             return;

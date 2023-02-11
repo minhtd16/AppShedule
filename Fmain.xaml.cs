@@ -190,7 +190,7 @@ namespace AppShedule
             List_SheduleRoom_Fillter = fillter.SheduleRoom_GetAll();
 
             DateTime date_start = Convert.ToDateTime(txtDateStart.Text.ToString());
-            DateTime date_End = Convert.ToDateTime(txtDateEnd.Text);
+            DateTime date_End = Convert.ToDateTime(txtDateEnd.Text.ToString());
 
             List_SheduleRoom_Fillter = List_SheduleRoom_Fillter.Where(x => x.NgayThang >= date_start && x.NgayThang <= date_End)
                                                                 .OrderBy(x => x.NgayThang).ThenByDescending(x => x.Buoi).ThenBy(x => x.TenPhong).ToList();
@@ -299,6 +299,33 @@ namespace AppShedule
         private void comboboxMonHoc_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             ListShow_Data_Fillter();
+        }
+
+        private void btDelAll_Click(object sender, RoutedEventArgs e)
+        {
+            Funcs_dbAppShedule f = new Funcs_dbAppShedule();
+
+            MessageBoxResult rs = MessageBox.Show("Bạn có chắc chắn xóa toàn bộ dữ liệu không? ", "Thông báo", MessageBoxButton.OKCancel, MessageBoxImage.Question);
+            int i = 0;
+            if (rs == MessageBoxResult.OK)
+            {
+                var selectedItems = ListShowInfor.SelectedItems;
+
+                foreach (SheduleRoom item in selectedItems)
+                {
+                    if (f.Appoint_Delete(item.ID) == true) { i++; }
+                }
+                MessageBox.Show("Đã xóa thành công " + i.ToString() + " bản ghi", "Thông báo", MessageBoxButton.OK, MessageBoxImage.Information);
+                SetDate_DateStart_DateEnd();
+                ListShow_Data_Fillter();
+                List_Data_ToaNha();
+                List_Data_PhongHoc();
+                List_Data_BuoiHoc();
+                List_Data_LoaiDung();
+                List_Data_MonHoc();
+                List_Data_CBGiangDay();
+
+            }
         }
 
         private void comboboxLoaiDung_SelectionChanged(object sender, SelectionChangedEventArgs e)
